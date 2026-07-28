@@ -1,5 +1,7 @@
 # SoulWatch
 
+![SoulWatch Interface](soulwatch-interface.png)
+
 SoulWatch is a World of Warcraft Vanilla (1.12) addon that helps Warlocks manage Soulstones during raids.
 
 It provides synchronized assignments, individual cooldown timers and a simple interface to keep Soulstone management organized across the raid.
